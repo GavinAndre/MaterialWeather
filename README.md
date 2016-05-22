@@ -16,6 +16,8 @@
 
 界面使用RecycleView,CardView,TabLayout,CollapsingToolbarLayout等基于MaterialDesign的新控件和布局
 
+------------
+
 在此要感谢开源项目：
 第一行代码酷欧天气（对着第一行代码这本书从头到尾敲了边，对我的帮助非常大）
 
