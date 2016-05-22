@@ -11,7 +11,9 @@
 (3)可点击切换简介与详情卡片页面
 
 使用ApiStore的天气查询接口。
+
 使用数据库来存储天气城市等信息。
+
 界面使用RecycleView,CardView,TabLayout,CollapsingToolbarLayout等基于MaterialDesign的新控件和布局
 
 
