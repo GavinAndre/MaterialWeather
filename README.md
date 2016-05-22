@@ -16,7 +16,11 @@
 
 界面使用RecycleView,CardView,TabLayout,CollapsingToolbarLayout等基于MaterialDesign的新控件和布局
 
-
-
-
 ![image](https://github.com/GavinAndre/materialweather/blob/master/screenshots/s1.jpg)
+![image](https://github.com/GavinAndre/MaterialWeather/blob/master/screenshots/s2.jpg)
+
+![image](https://github.com/GavinAndre/materialweather/blob/master/screenshots/s3.jpg)
+![image](https://github.com/GavinAndre/materialweather/blob/master/screenshots/s4.jpg)
+
+![image](https://github.com/GavinAndre/materialweather/blob/master/screenshots/s5.jpg)
+![image](https://github.com/GavinAndre/materialweather/blob/master/screenshots/s6.jpg)
