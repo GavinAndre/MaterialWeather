@@ -16,9 +16,9 @@
 
 界面使用RecycleView,CardView,TabLayout,CollapsingToolbarLayout等基于MaterialDesign的新控件和布局
 
-------------
+---
 
-在此要感谢开源项目：
+###感谢：
 第一行代码酷欧天气（对着第一行代码这本书从头到尾敲了边，对我的帮助非常大）
 
 [CoolWeather][1]
@@ -33,7 +33,8 @@ MaterialDesignExample（参考该项目中MaterialDesign新控件布局等）
 
 
 
-
+---
+###截图
 ![][image-1]
 ![][image-2]
 
