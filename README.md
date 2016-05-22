@@ -18,12 +18,19 @@
 
 在此要感谢开源项目：
 第一行代码酷欧天气（对着第一行代码这本书从头到尾敲了边，对我的帮助非常大）
+
+[CoolWeather][1]
+
 SeeWeather(看到就看天气才萌生的自己也要重新写个天气应用的想法，非常漂亮的应用给了我很大的参考价值)
+
+[SeeWeather][2]
+
 MaterialDesignExample（参考该项目中MaterialDesign新控件布局等）
 
-1. [CoolWeather][1]
-2. [SeeWeather][2]
-3. [MaterialDesignExample][3]
+[MaterialDesignExample][3]
+
+
+
 
 ![][image-1]
 ![][image-2]
