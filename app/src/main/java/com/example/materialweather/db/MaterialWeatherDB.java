@@ -25,7 +25,7 @@ public class MaterialWeatherDB {
     /**
      * 数据库名
      */
-    public static final String DB_NAME = "cool_weather";
+    public static final String DB_NAME = "material_weather";
 
     /**
      * 数据库版本
